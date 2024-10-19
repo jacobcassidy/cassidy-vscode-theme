@@ -10,6 +10,9 @@
     },
     {
       "include": "#missing-properties"
+    },
+    {
+      "include": "#missing-url-parameter"
     }
   ],
   "repository": {
@@ -17,7 +20,7 @@
       "patterns": [
         {
           "match": ",",
-          "name": "punctuation.separator.list.comma.scss"
+          "name": "punctuation.separator.list.comma.scss.cassidydark"
         }
       ]
     },
@@ -25,7 +28,7 @@
       "patterns": [
         {
           "match": "(?<!\\/\\/.*)(>>|>|\\+|~)",
-          "name": "keyword.operator.combinator.scss"
+          "name": "keyword.operator.combinator.scss.cassidydark"
         }
       ]
     },
@@ -33,7 +36,15 @@
       "patterns": [
         {
           "match": "(?<!\\/\\/.*)(content|cursor|filter|font|mask)(?=:)",
-          "name": "support.type.property-name.scss"
+          "name": "support.type.property-name.scss.cassidydark"
+        }
+      ]
+    },
+    "missing-url-parameter": {
+      "patterns": [
+        {
+          "match": "(?<=url\\(\\s*)/",
+          "name": "variable.parameter.url.scss.cassidydark"
         }
       ]
     }
