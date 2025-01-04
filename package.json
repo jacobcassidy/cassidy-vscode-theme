@@ -67,6 +67,13 @@
         "injectTo": [
           "text.html.php"
         ]
+      },
+      {
+        "scopeName": "php-comment-variable-syntax.injection",
+        "path": "./syntaxes/php-comment-variable-syntax.json",
+        "injectTo": [
+          "text.html.php"
+        ]
       }
     ]
   },
@@ -79,6 +86,7 @@
     "isPreReleaseVersion": false,
     "hasPreReleaseVersion": false,
     "installedTimestamp": 1710536963385,
-    "pinned": false
+    "pinned": false,
+    "size": 11558066
   }
 }
