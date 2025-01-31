@@ -1,12 +1,14 @@
 # Cassidy Dark Theme
 
-| Table of Contents |
-| -- |
-| [Overview](#overview) |
+[![vs marketplace](https://img.shields.io/vscode-marketplace/v/jacobcassidy.cassidy-dark.svg?label=vs%20marketplace)](https://marketplace.visualstudio.com/items?itemName=jacobcassidy.cassidy-dark) [![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/jacobcassidy.cassidy-dark)](https://marketplace.visualstudio.com/items?itemName=jacobcassidy.cassidy-dark) [![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/jacobcassidy.cassidy-dark)](https://marketplace.visualstudio.com/items?itemName=jacobcassidy.cassidy-dark&ssr=false#review-details) [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/jacobcassidy/vscode-cassidy-dark-theme)](https://github.com/jacobcassidy/vscode-cassidy-dark-theme/commits/main/)
+
+| Table of Contents             |
+| ----------------------------- |
+| [Overview](#overview)         |
 | [Added Tokens](#added-tokens) |
 | [Installation](#installation) |
-| [What's New](#whats-new) |
-| [Issues?](#issues) |
+| [What's New](#whats-new)      |
+| [Issues?](#issues)            |
 
 ## Overview
 
@@ -48,7 +50,6 @@ View the [Changelog](https://github.com/jacobcassidy/vscode-cassidy-dark-theme/b
 > I published another free VSCode extension that brings colorizing of CSS nesting and `@container` to VSCode.
 >
 > Search for _CSS Nesting Syntax Highlighting_ in the Visual Studio Code's Extensions Marketplace or click the install button on the [CSS Nesting Syntax Highlighting Marketplace page](https://marketplace.visualstudio.com/items?itemName=jacobcassidy.css-nesting-syntax-highlighting).
->
 
 ## Issues?
 
