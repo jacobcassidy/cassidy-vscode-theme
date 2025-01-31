@@ -1,6 +1,6 @@
 # Cassidy Dark Theme
 
-[![vs marketplace](https://img.shields.io/vscode-marketplace/v/jacobcassidy.cassidy-dark.svg?label=vs%20marketplace)](https://marketplace.visualstudio.com/items?itemName=jacobcassidy.cassidy-dark) [![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/jacobcassidy.cassidy-dark)](https://marketplace.visualstudio.com/items?itemName=jacobcassidy.cassidy-dark) [![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/jacobcassidy.cassidy-dark)](https://marketplace.visualstudio.com/items?itemName=jacobcassidy.cassidy-dark&ssr=false#review-details) [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/jacobcassidy/vscode-cassidy-dark-theme)](https://github.com/jacobcassidy/vscode-cassidy-dark-theme/commits/main/)
+[![vs marketplace](https://img.shields.io/vscode-marketplace/v/jacobcassidy.cassidy-dark.svg?label=vs%20marketplace)](https://marketplace.visualstudio.com/items?itemName=jacobcassidy.cassidy-dark) [![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/jacobcassidy.cassidy-dark)](https://marketplace.visualstudio.com/items?itemName=jacobcassidy.cassidy-dark) [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/jacobcassidy/vscode-cassidy-dark-theme)](https://github.com/jacobcassidy/vscode-cassidy-dark-theme/commits/main/)
 
 | Table of Contents             |
 | ----------------------------- |
